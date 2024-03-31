@@ -1,2 +1,4 @@
-logs/*
-gcodes/*
+logs/**
+gcodes/**
+logs/klippy.log
+database/**
